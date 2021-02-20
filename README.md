@@ -1,5 +1,12 @@
-### Hola
-sdfsfd
+### Comandos de Git
+git status -s = saber el estatus de los archivos
+git add . = agregar a zona intermedia
+git commit -m "nombre de la version" = agregar cambio con su descripcion
+git log --oneline = saber los commit que hay del proyecto
+git push *origin master* = subir el proyecto
+git pull <link del proyecto> = bajar el proyecto
+
+
 
 <!--
 **Daniher01/daniher01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
